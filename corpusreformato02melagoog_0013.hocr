@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./corpusreformato02melagoog/corpusreformato02melagoog_0013.png"; bbox 0 0 4552 5766; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 788 1002 1147 1168">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 788 1002 1147 1168">
+     <span class='ocr_line' id='line_1_1' title="bbox 825 1002 1109 1065; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 825 1002 899 1065; x_wconf 75' lang='lat' dir='ltr'>THE</span> <span class='ocrx_word' id='word_1_2' title='bbox 916 1005 1000 1065; x_wconf 54' lang='grc' dir='ltr'>κεν</span> <span class='ocrx_word' id='word_1_3' title='bbox 1015 1004 1109 1065; x_wconf 72' lang='lat' dir='ltr'>mx</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 788 1087 1147 1168; baseline -0.017 0"><span class='ocrx_word' id='word_1_4' title='bbox 788 1089 938 1168; x_wconf 76' lang='lat' dir='ltr'>PUBLIC</span> <span class='ocrx_word' id='word_1_5' title='bbox 957 1087 1147 1164; x_wconf 68' lang='lat' dir='ltr'>LnRARY</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 776 1411 1151 1586">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 776 1411 1151 1586">
+     <span class='ocr_line' id='line_1_3' title="bbox 803 1411 1121 1466; baseline -0.003 -8"><span class='ocrx_word' id='word_1_6' title='bbox 803 1415 915 1466; x_wconf 74' lang='lat' dir='ltr'>AS&#39;roR,</span> <span class='ocrx_word' id='word_1_7' title='bbox 928 1411 1040 1456; x_wconf 81' lang='lat' dir='ltr'>LENOX</span> <span class='ocrx_word' id='word_1_8' title='bbox 1051 1411 1121 1457; x_wconf 70' lang='lat' dir='ltr'>ANB</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 776 1476 1151 1525; baseline -0.005 -1"><span class='ocrx_word' id='word_1_9' title='bbox 776 1479 902 1525; x_wconf 65' lang='lat' dir='ltr'>&#39;mom</span> <span class='ocrx_word' id='word_1_10' title='bbox 918 1476 1151 1524; x_wconf 62' lang='lat' dir='ltr'>rounnfflom</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 1125 1560 1136 1586; baseline 0 -5"><span class='ocrx_word' id='word_1_11' title='bbox 1125 1560 1136 1586; x_wconf 55' lang='grc' dir='ltr'>ι</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 2280 5764">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 2280 5764">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 2280 5764; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 2280 5764; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
